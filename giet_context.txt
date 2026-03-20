@@ -1,0 +1,398 @@
+============================================================
+Godavari Institute of Engineering and Technology (GIET)
+============================================================
+
+1. Overview
+------------
+Godavari Institute of Engineering and Technology (GIET) is a leading engineering college in Rajahmundry, Andhra Pradesh, India. Established in 1998, GIET has grown into a center of excellence for technical education, research, and holistic student development. The institution is affiliated with JNTU Kakinada and holds NAAC A+ and NBA accreditations, reflecting its commitment to quality.
+
+2. History & Vision
+-------------------
+GIET was founded with the vision to empower students with world-class engineering education and foster innovation. Over the years, GIET has evolved, adapting to technological advancements and industry needs. The college emphasizes ethical values, leadership, and lifelong learning.
+
+3. Accreditation & Recognition
+------------------------------
+- NAAC A+ accreditation, NBA accredited programs, AICTE approval.
+- Recognized for academic excellence, research output, and industry partnerships.
+- Consistently ranked among the top engineering colleges in Andhra Pradesh.
+
+4. Campus & Infrastructure
+--------------------------
+- 300+ acre campus with eco-friendly design, landscaped gardens, and modern architecture.
+- Smart classrooms equipped with digital boards, projectors, and interactive learning tools.
+- Central library: 50,000+ books, journals, e-resources, digital access, reading halls.
+- Computer labs: High-performance systems, latest software, 24/7 access.
+- Research centers: AI, Robotics, Data Science, IoT, Cyber Security.
+- Hostels: Separate for boys and girls, Wi-Fi, recreation, medical care, security.
+- Sports facilities: Cricket, football, basketball, volleyball, badminton, athletics, gymnasium.
+- Cafeterias: Hygienic, multi-cuisine, student lounges.
+- Transport: Fleet of buses covering Rajahmundry and nearby towns.
+- Medical center: 24/7 healthcare, ambulance, counseling services.
+
+5. Academic Departments & Programs
+----------------------------------
+- Computer Science Engineering (CSE): Focus on software development, algorithms, systems, and emerging tech.
+- CSE Artificial Intelligence & Machine Learning (AIML): AI, ML, deep learning, data analytics, real-world projects.
+- CSE Data Science (DS): Big data, analytics, cloud computing, business intelligence.
+- CSE Cyber Security: Network security, cryptography, ethical hacking, cyber law.
+- Information Technology (IT): Web development, databases, IT management, cloud solutions.
+- Electronics & Communication Engineering (ECE): Embedded systems, VLSI, communications, IoT.
+- Electrical & Electronics Engineering (EEE): Power systems, automation, renewable energy.
+- Mechanical Engineering: CAD/CAM, manufacturing, thermal engineering, robotics.
+- Civil Engineering: Structural design, construction, environmental engineering.
+- Postgraduate: M.Tech, MBA, research programs.
+
+6. Academic Philosophy & Teaching
+---------------------------------
+- Industry-aligned curriculum, regular updates, hands-on learning.
+- Experienced faculty: PhDs, industry experts, visiting professors.
+- Project-based learning, internships, research opportunities.
+- Workshops, seminars, guest lectures, hackathons.
+- Student-centric approach: Mentoring, counseling, academic support.
+
+7. Research & Innovation
+------------------------
+- Dedicated research centers for AI, Robotics, IoT, Data Science.
+- Funded projects, patents, publications in national/international journals.
+- Collaboration with industry and government for R&D.
+- Student participation in innovation challenges, startup incubation.
+
+8. Facilities
+-------------
+- Library: Digital access, e-books, journals, study rooms, research support.
+- Labs: State-of-the-art equipment, software, 24/7 access.
+- Hostels: Comfortable rooms, Wi-Fi, recreation, medical care.
+- Sports: Indoor/outdoor, tournaments, coaching, gym.
+- Cafeteria: Healthy food, snacks, beverages.
+- Medical: Health checkups, emergency care, counseling.
+- Transport: Safe, punctual, extensive coverage.
+
+9. Student Life & Clubs
+-----------------------
+- Technical clubs: Coding, Robotics, AI/ML, Data Science, Cyber Security.
+- Cultural clubs: Music, dance, drama, art, photography.
+- Literary clubs: Debates, writing, public speaking.
+- Sports clubs: Cricket, football, basketball, athletics.
+- NCC: Leadership, discipline, national service, training camps.
+- NSS: Social service, community outreach, environmental initiatives.
+- Events: Technical fests, hackathons, coding competitions, cultural festivals, sports meets.
+
+10. Placements & Career Development
+-----------------------------------
+- Placement cell: Career guidance, resume workshops, mock interviews.
+- Regular campus drives: TCS, Infosys, Wipro, Accenture, Capgemini, Cognizant, IBM, Tech Mahindra, and more.
+- Internship opportunities, industry training, skill development.
+- Alumni network: Support, mentoring, global placements.
+- Consistently high placement rate (85%+).
+
+11. Achievements & Notable Alumni
+---------------------------------
+- Awards for academic excellence, innovation, research.
+- Alumni in top global companies, research labs, startups.
+- Student achievements in national/international competitions.
+
+12. Events & Activities
+-----------------------
+- Technical fests: Workshops, paper presentations, project expos.
+- Coding competitions, hackathons, robotics challenges.
+- Cultural festivals: Music, dance, drama, art.
+- Sports meets: Inter-college tournaments, athletics.
+- Leadership programs, social service, outreach.
+
+13. Contact Information
+----------------------
+- Address: GIET, Rajahmundry, Andhra Pradesh, India
+- Email: info@giet.edu
+- Phone: +91-1234567890
+- Website: www.giet.edu
+
+14. Branch-wise Details
+-----------------------
+A. Computer Science Engineering (CSE)
+   - Intake: 300 seats
+   - Duration: 4 years (B.Tech)
+   - Curriculum: Data Structures, Algorithms, Operating Systems, Database Management, Software Engineering, Cloud Computing, Artificial Intelligence, Machine Learning, IoT, Cyber Security
+   - Labs: Programming Lab, Networking Lab, Cloud Computing Lab, AI/ML Lab
+   - Faculty: 25+ professors, industry experts, PhDs
+   - Research: AI, ML, IoT, Cyber Security, Blockchain
+   - Achievements: National coding competitions, hackathons, internships at Google, Microsoft, TCS, Infosys
+   - Student Projects: Smart campus, facial recognition, IoT-based attendance, chatbot development
+
+B. CSE Artificial Intelligence & Machine Learning (AIML)
+   - Intake: 240 seats
+   - Duration: 4 years (B.Tech)
+   - Curriculum: Machine Learning, Deep Learning, NLP, Computer Vision, Data Analytics, Reinforcement Learning
+   - Labs: AI/ML Lab, Data Analytics Lab
+   - Faculty: 15+ specialized faculty
+   - Research: AI for healthcare, smart cities, autonomous vehicles
+   - Achievements: Student papers in international conferences, AI hackathons
+   - Student Projects: Disease prediction, smart traffic management, image processing
+
+C. CSE Data Science (DS)
+   - Intake: 180 seats
+   - Duration: 4 years (B.Tech)
+   - Curriculum: Big Data, Data Mining, Business Intelligence, Cloud Computing, Data Visualization, Predictive Analytics
+   - Labs: Data Science Lab, Analytics Lab
+   - Faculty: 10+ faculty
+   - Research: Data-driven decision making, business analytics
+   - Achievements: Industry projects, analytics competitions, internships at Amazon, IBM
+   - Student Projects: Sales prediction, customer segmentation, fraud detection
+
+D. CSE Cyber Security
+   - Intake: 60 seats
+   - Duration: 4 years (B.Tech)
+   - Curriculum: Cryptography, Network Security, Ethical Hacking, Cyber Law, Digital Forensics, Security Protocols
+   - Labs: Security Lab, Forensics Lab
+   - Faculty: 8+ faculty
+   - Research: Secure systems, cyber defense, malware analysis
+   - Achievements: Participation in national cyber security events, internships at cybersecurity firms
+   - Student Projects: Secure messaging, intrusion detection, malware analysis
+
+E. Information Technology (IT)
+   - Intake: 120 seats
+   - Duration: 4 years (B.Tech)
+   - Curriculum: Web Development, Databases, IT Management, Cloud Solutions, Mobile App Development, Software Testing
+   - Labs: Web Lab, Database Lab, Cloud Lab
+   - Faculty: 12+ faculty
+   - Research: Web technologies, cloud computing, mobile apps
+   - Achievements: Web app competitions, internships at startups
+   - Student Projects: E-commerce platform, mobile apps, cloud-based solutions
+
+F. Electronics & Communication Engineering (ECE)
+   - Intake: 180 seats
+   - Duration: 4 years (B.Tech)
+   - Curriculum: Embedded Systems, VLSI, Communications, IoT, Signal Processing, Wireless Networks
+   - Labs: Embedded Lab, VLSI Lab, Communication Lab
+   - Faculty: 15+ faculty
+   - Research: IoT, wireless communication, smart devices
+   - Achievements: Projects in smart devices, IoT expos, internships at telecom companies
+   - Student Projects: Smart home automation, wireless sensor networks, embedded systems
+
+G. Electrical & Electronics Engineering (EEE)
+   - Intake: 120 seats
+   - Duration: 4 years (B.Tech)
+   - Curriculum: Power Systems, Automation, Renewable Energy, Electrical Machines, Control Systems
+   - Labs: Power Lab, Automation Lab
+   - Faculty: 10+ faculty
+   - Research: Renewable energy, smart grids, automation
+   - Achievements: National energy innovation awards, internships at power companies
+   - Student Projects: Solar power systems, smart grid, automation projects
+
+H. Mechanical Engineering
+   - Intake: 120 seats
+   - Duration: 4 years (B.Tech)
+   - Curriculum: CAD/CAM, Manufacturing, Thermal Engineering, Robotics, Fluid Mechanics, Material Science
+   - Labs: CAD Lab, Manufacturing Lab, Robotics Lab
+   - Faculty: 12+ faculty
+   - Research: Robotics, manufacturing processes, thermal systems
+   - Achievements: Robotics competitions, manufacturing expos, internships at automotive companies
+   - Student Projects: Automated manufacturing, robotic arms, thermal analysis
+
+I. Civil Engineering
+   - Intake: 60 seats
+   - Duration: 4 years (B.Tech)
+   - Curriculum: Structural Design, Construction, Environmental Engineering, Water Resources, Transportation Engineering
+   - Labs: Structural Lab, Environmental Lab
+   - Faculty: 8+ faculty
+   - Research: Sustainable construction, water management, smart infrastructure
+   - Achievements: Projects in smart infrastructure, internships at construction firms
+   - Student Projects: Smart city planning, water management systems, green buildings
+
+J. Postgraduate Programs
+------------------------
+- M.Tech (5 specializations): Duration 2 years, intake varies
+- MBA: Duration 2 years, intake 60
+- MCA: Duration 2 years, intake 120
+- Curriculum: Advanced engineering, management, computer applications
+- Research: Industry projects, academic research, entrepreneurship
+
+K. Diploma & Doctoral Programs
+------------------------------
+- Diploma in Engineering: Duration 3 years, intake varies
+- Ph.D. in Engineering, Management, Science: Duration 3-5 years
+- Research: Interdisciplinary, funded projects, publications
+
+L. Course List (UG, PG, Diploma, Doctoral)
+------------------------------------------
+- B.Tech: CSE, AIML, DS, Cyber Security, IT, ECE, EEE, Mechanical, Civil
+- M.Tech: CSE, ECE, Mechanical, Civil, Electrical
+- MBA, MCA
+- Diploma: CSE, ECE, Mechanical, Civil
+- Ph.D.: Engineering, Management, Science
+
+============================================================
+
+ADMISSION PROCESS & PLACEMENTS
+
+A. Admission Process
+-------------------
+- UG Admissions (B.Tech):
+  - Entrance Exams: AP EAMCET, JEE Main
+  - Eligibility: 10+2 with Physics, Chemistry, Mathematics, minimum 45% marks
+  - Application: Online/offline, counseling by APSCHE
+  - Seat Allocation: 70% through entrance rank, 30% merit/NRI/other states
+  - Document Verification: Marksheet, entrance scorecard, ID, transfer certificate, caste/income certificate, photos
+  - Counseling Rounds: Preference selection, seat allotment, fee payment
+  - Orientation: Academic calendar, campus tour, student handbook
+
+- PG Admissions (M.Tech, MBA, MCA):
+  - Entrance Exams: GATE, AP PGECET (M.Tech), APICET (MBA/MCA)
+  - Eligibility: Graduation with minimum 50% marks
+  - Application: Online registration, counseling, document verification
+  - Seat Allocation: Based on entrance score, merit
+  - Final Admission: Fee payment, registration
+
+- Diploma & Ph.D. Admissions:
+  - Diploma: 10th pass, entrance/merit
+  - Ph.D.: Master’s degree, research proposal, interview
+
+B. Fees Structure (2026)
+------------------------
+- B.Tech (per year):
+  - CSE, AIML, DS, Cyber Security, IT: ₹1,20,000
+  - ECE, EEE, Mechanical, Civil: ₹1,00,000
+- M.Tech (per year): ₹1,30,000
+- MBA (per year): ₹1,50,000
+- MCA (per year): ₹1,10,000
+- Diploma (per year): ₹60,000
+- Ph.D. (per year): ₹80,000
+- Hostel (per year): ₹60,000 (accommodation, food, Wi-Fi)
+- Transport (per year): ₹15,000
+- Exam & Miscellaneous: ₹10,000
+
+- Scholarships & Reimbursements:
+  - Merit-based scholarships for top 10% students
+  - Government scholarships for reserved categories
+  - Fee reimbursement: UG (4 years): 3053/3780 students, PG (2 years): 101/147 students (NIRF 2024)
+  - Industry-sponsored scholarships, need-based aid
+
+C. Placements
+-------------
+- Placement Cell: Career guidance, resume workshops, mock interviews, personality development
+- Training: Quantitative aptitude, communication, technical skills, group discussions
+- Placement Drives: TCS, Infosys, Wipro, Accenture, Capgemini, Cognizant, IBM, Tech Mahindra, Amazon, HCL, Milliman, PIAGGIO, SWIGGY
+- Average Package (2023): ₹5.75 LPA (UG/PG)
+- Highest Package: ₹18 LPA (recent years)
+- Placement Rate: 85-90%
+- Number of Students Placed (2023): 817 (NIRF 2024)
+- Alumni: Premier positions in industry, global placements
+- Internship Opportunities: Industry training, skill development, project work
+- Placement Statistics (last 3 years):
+  - 2021: 750 placed, avg. ₹5.2 LPA
+  - 2022: 800 placed, avg. ₹5.5 LPA
+  - 2023: 817 placed, avg. ₹5.75 LPA
+
+D. Top Recruiters
+-----------------
+- TCS, Infosys, Wipro, Accenture, Capgemini, Cognizant, IBM, Tech Mahindra, Amazon, HCL, Milliman, PIAGGIO, SWIGGY, Collabera, Blustar Industries, KEC
+- Industry partnerships for internships, training, research
+
+E. Placement Training & Support
+------------------------------
+- Soft skills, technical skills, aptitude, interview preparation
+- External training organizations, workshops, seminars
+- Alumni mentoring, resume review, career counseling
+
+============================================================
+
+AWARDS, RANKINGS, ALUMNI, TESTIMONIALS, FAQS, ADDITIONAL INFO
+============================================================
+
+A. Awards & Recognition
+-----------------------
+- Asia Education Summit & Awards 2020: Best University in Eastern India for Campus Placement
+- NIRF Ranking: 201-300th (Engineering)
+- Careers360 AAA+ Rating (2025)
+- NAAC A+ and NBA accreditations
+- ISO-certified institution
+- National awards for innovation, research, student projects
+- Faculty with patents, international publications
+- Student teams win national coding, robotics, and innovation competitions
+
+B. Rankings & Statistics
+------------------------
+- Established: 1998
+- Campus Size: 300 acres
+- Faculty Count: 118
+- Gender Percentage: Male 50%, Female 50%
+- Students from Outside State: 28%
+- UG Courses: 11 B.Tech specializations
+- PG Courses: 5 M.Tech, MBA, MCA
+- Diploma & Ph.D. programs
+- Placement Rate: 85-90%
+- Average Package: ₹5.75 LPA
+- Highest Package: ₹18 LPA
+- Number of Students Placed (2023): 817
+
+C. Alumni Stories
+-----------------
+- Zeeshan Mallick (Batch 2012-2016, Paytm): "Time will not change the love I have for my alma mater. I will never skip the chance to snap a photo of the campus and let the world know just how thankful I am to have had the chance to spend a part of your life here."
+- R. Kumar: Senior Engineer, Google
+- S. Rao: Data Scientist, Microsoft
+- A. Singh: Founder, Tech Startup
+- Alumni in TCS, Infosys, Wipro, Accenture, Capgemini, Cognizant, IBM
+- Alumni mentors for current students
+
+D. Student Testimonials
+-----------------------
+- "GIET gave me the platform to excel in coding and research. The faculty support is amazing." – CSE Graduate
+- "The hostel life is vibrant and safe. I made lifelong friends here." – ECE Student
+- "Placements are excellent. I got placed in Infosys with a great package." – IT Graduate
+- "Our college has all the necessary infrastructure facilities and equipment. We have laboratories, libraries, and hostels with good Wi-Fi and smart boards in our classrooms. Sometimes the living space is unhygienic, but overall, it's a great experience." – Anonymous, CSE
+- "My college is a very big college in our surroundings. Infrastructure is very good and it is constructed in 300 acres of land. Playgrounds, basketball, football, and cricket grounds are available. Hostel maintenance is very good and they provide best food to all the students." – Anonymous, EEE
+
+E. Frequently Asked Questions (FAQs)
+------------------------------------
+1. Does GIET provide hostel facilities?
+   - Yes, separate hostels for boys and girls with modern amenities.
+2. What are the main facilities available?
+   - Food court, gym, sports, transportation, library, hostel, bank, ATM, medical center.
+3. Is GIET private or government?
+   - Private, autonomous college affiliated to JNTU Kakinada.
+4. What is the affiliation of GIET?
+   - Approved by AICTE, permanently affiliated to JNTU Kakinada.
+5. Is GIET accredited?
+   - Yes, NAAC A+, NBA, ISO-certified, NIRF ranked.
+6. What is the admission process?
+   - Entrance exams (AP EAMCET, JEE Main, GATE, AP PGECET, APICET), counseling, document verification, fee payment.
+7. What is the fees structure?
+   - Varies by branch, hostel, transport, scholarships available.
+8. What is the placement rate?
+   - 85-90%, average package ₹5.75 LPA, highest ₹18 LPA.
+9. Who are the top recruiters?
+   - TCS, Infosys, Wipro, Accenture, Capgemini, Cognizant, IBM, Tech Mahindra, Amazon, HCL, Milliman, PIAGGIO, SWIGGY.
+10. What are the sports facilities?
+    - Cricket, football, basketball, volleyball, badminton, athletics, gym, swimming pool.
+11. What is the academic calendar?
+    - Odd Semester: July–December, Even Semester: January–May, annual events, holidays.
+12. How to contact GIET?
+    - Email: info@giet.edu, Phone: +91-1234567890, Website: www.giet.edu
+
+F. Additional Information
+-------------------------
+- International collaborations: MoUs with universities, research labs
+- Student exchange programs, internships abroad
+- Environmental sustainability: Green campus, solar power, waste management
+- Social responsibility: NSS, blood donation camps, community outreach
+- Anti-ragging committee, grievance redressal, student support
+- Online payment portal, virtual tour, blog, campus map
+- Academic calendar, authorities, awards, ranking, CSR, IQAC, MoUs, mandatory disclosures
+- Facilities for physically challenged, fire safety certificate
+- Alumni network, announcements, campus flash, COVID-19 cell, environmental sustainability
+- International students: Admissions, support, cultural integration
+- Research & Development: Funded projects, patents, publications, innovation hubs
+- Student center: Recreation, study spaces, lounges, cool parlour
+- Mega auditorium: Entertainment, cultural events, seminars
+- Central mess: Dining, food court, bakery, juice bar
+- Accommodation spaces: Guest house, hostel, student center
+- Medical facilities: 24/7 healthcare, ambulance, pharmacy
+- Gymnasium: Fitness, sports, tournaments
+- Knowledge centre: Library, digital access, seminars
+- Extra co-curricular facilities: Sports, games, intellectual & physical development
+- Annual techno-cultural fest: Workshops, competitions, cultural nights
+- Convocation: Graduation ceremony, awards, alumni meet
+- Campus map & directions: NH-16, Chaitanya Knowledge City, Rajahmundry, Andhra Pradesh
+- Contact: admissions@giet.edu, placements@giet.edu, hostel@giet.edu, info@giet.edu, +91-1234567890, +91-9876543210
+- Website: www.giet.edu
+
+============================================================

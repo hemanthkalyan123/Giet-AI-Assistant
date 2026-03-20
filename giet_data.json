@@ -1,0 +1,2346 @@
+{
+  "institution_overview": {
+    "name": "Godavari Institute of Engineering and Technology",
+    "short_name": "GIET Rajahmundry",
+    "location": "NH-16, Chaitanya Knowledge City, Rajahmundry, Andhra Pradesh 533296",
+    "type": "Autonomous Institution",
+    "established_year": 1998,
+    "affiliations": [
+      "Jawaharlal Nehru Technological University Kakinada (JNTUK)"
+    ],
+    "accreditations": [
+      "NAAC 'A+' Grade",
+      "NBA Accredited",
+      "AICTE Approved"
+    ],
+    "campus_area_acres": 300,
+    "contact_details": {
+      "website": "www.giet.ac.in",
+      "email": "info@giet.ac.in",
+      "phone": "+91-883-2484828",
+      "admission_helpline": "+91-9000000000"
+    },
+    "about_text": "Godavari Institute of Engineering & Technology (GIET) was established in 1998 to offer engineering education of world-class standards. Over the years, the college has come a long way to gain a place of repute and a preferred destination for quality engineering education."
+  },
+  "admission_and_fees": {
+    "btech_fee_structure": "Fees range from INR 85,000 to INR 1,10,000 per year depending on the branch.",
+    "mtech_fee_structure": "INR 60,000 per year for all M.Tech specializations.",
+    "mba_fee_structure": "INR 50,000 per year.",
+    "diploma_fee_structure": "INR 25,000 per year.",
+    "hostel_fee_structure": "INR 70,000 to 90,000 per year depending on AC/Non-AC and sharing basis.",
+    "admission_process": "Admissions to B.Tech are made through AP EAPCET. Category B seats are filled by management quota."
+  },
+  "academics": {
+    "undergraduate_btech": [
+      {
+        "branch_code": "CSE",
+        "branch_name": "Computer Science and Engineering",
+        "intake": 240,
+        "annual_fee_inr": 105000,
+        "duration": "4 Years",
+        "description": "Focuses on software, hardware, and algorithms.",
+        "hod_name": "Dr. CSE Head",
+        "labs": [
+          "Computer Science and Engineering Basic Lab",
+          "Advanced Research Lab",
+          "Computer Center Lab"
+        ]
+      },
+      {
+        "branch_code": "ECE",
+        "branch_name": "Electronics and Communication",
+        "intake": 180,
+        "annual_fee_inr": 105000,
+        "duration": "4 Years",
+        "description": "Deals with electronic devices, circuits, and communication equipment.",
+        "hod_name": "Dr. ECE Head",
+        "labs": [
+          "Electronics and Communication Basic Lab",
+          "Advanced Research Lab",
+          "Computer Center Lab"
+        ]
+      },
+      {
+        "branch_code": "EEE",
+        "branch_name": "Electrical and Electronics",
+        "intake": 120,
+        "annual_fee_inr": 85000,
+        "duration": "4 Years",
+        "description": "Study of electrical power, machines, and electronics.",
+        "hod_name": "Dr. EEE Head",
+        "labs": [
+          "Electrical and Electronics Basic Lab",
+          "Advanced Research Lab",
+          "Computer Center Lab"
+        ]
+      },
+      {
+        "branch_code": "MECH",
+        "branch_name": "Mechanical Engineering",
+        "intake": 120,
+        "annual_fee_inr": 85000,
+        "duration": "4 Years",
+        "description": "Design, analysis, and manufacturing of machinery.",
+        "hod_name": "Dr. MECH Head",
+        "labs": [
+          "Mechanical Engineering Basic Lab",
+          "Advanced Research Lab",
+          "Computer Center Lab"
+        ]
+      },
+      {
+        "branch_code": "CIVIL",
+        "branch_name": "Civil Engineering",
+        "intake": 120,
+        "annual_fee_inr": 85000,
+        "duration": "4 Years",
+        "description": "Construction, design, and maintenance of physical environment.",
+        "hod_name": "Dr. CIVIL Head",
+        "labs": [
+          "Civil Engineering Basic Lab",
+          "Advanced Research Lab",
+          "Computer Center Lab"
+        ]
+      },
+      {
+        "branch_code": "IT",
+        "branch_name": "Information Technology",
+        "intake": 120,
+        "annual_fee_inr": 105000,
+        "duration": "4 Years",
+        "description": "Applies computing technology for managing business data.",
+        "hod_name": "Dr. IT Head",
+        "labs": [
+          "Information Technology Basic Lab",
+          "Advanced Research Lab",
+          "Computer Center Lab"
+        ]
+      },
+      {
+        "branch_code": "CSM",
+        "branch_name": "CSE - AI & Machine Learning",
+        "intake": 120,
+        "annual_fee_inr": 110000,
+        "duration": "4 Years",
+        "description": "Specializes in artificial intelligence and ML models.",
+        "hod_name": "Dr. CSM Head",
+        "labs": [
+          "CSE - AI & Machine Learning Basic Lab",
+          "Advanced Research Lab",
+          "Computer Center Lab"
+        ]
+      },
+      {
+        "branch_code": "CSD",
+        "branch_name": "CSE - Data Science",
+        "intake": 60,
+        "annual_fee_inr": 110000,
+        "duration": "4 Years",
+        "description": "Focuses on big data analytics and data mining.",
+        "hod_name": "Dr. CSD Head",
+        "labs": [
+          "CSE - Data Science Basic Lab",
+          "Advanced Research Lab",
+          "Computer Center Lab"
+        ]
+      }
+    ],
+    "postgraduate_mtech": [
+      {
+        "branch": "Computer Science",
+        "intake": 18,
+        "duration": "2 Years"
+      },
+      {
+        "branch": "Power Systems",
+        "intake": 18,
+        "duration": "2 Years"
+      },
+      {
+        "branch": "Structural Engineering",
+        "intake": 18,
+        "duration": "2 Years"
+      },
+      {
+        "branch": "VLSI Design",
+        "intake": 18,
+        "duration": "2 Years"
+      }
+    ],
+    "management_mba": [
+      {
+        "specializations": [
+          "Finance",
+          "HR",
+          "Marketing",
+          "Systems"
+        ],
+        "intake": 120,
+        "duration": "2 Years"
+      }
+    ],
+    "diploma_polytechnic": [
+      {
+        "branch": "Diploma in Mechanical",
+        "intake": 60,
+        "duration": "3 Years"
+      },
+      {
+        "branch": "Diploma in Civil",
+        "intake": 60,
+        "duration": "3 Years"
+      },
+      {
+        "branch": "Diploma in EEE",
+        "intake": 60,
+        "duration": "3 Years"
+      }
+    ]
+  },
+  "placements_history": {
+    "summary": "GIET Rajahmundry has an outstanding placement record with over 80% students placed annually in reputed MNCs and Core companies.",
+    "training_programs": [
+      "Campus Recruitment Training (CRT) starting from 2nd Year.",
+      "Company Specific Training (TCS Ninja, Wipro Elite, etc.)",
+      "Mock Interviews and Group Discussions.",
+      "Coding contests on Hackerrank, LeetCode."
+    ],
+    "year_wise_data": [
+      {
+        "year": 2021,
+        "total_offers": 1221,
+        "highest_package_lpa": 36,
+        "average_package_lpa": 4.6,
+        "top_companies_visited": [
+          "TCS",
+          "Wipro",
+          "Infosys",
+          "Cognizant",
+          "Tech Mahindra",
+          "Amazon",
+          "Capgemini",
+          "Accenture"
+        ],
+        "placement_rate": "86%",
+        "highlights_statement": "In the year 2021, the campus saw 1221 offers, with the highest package reaching 36 LPA offered by a top MNC."
+      },
+      {
+        "year": 2022,
+        "total_offers": 1222,
+        "highest_package_lpa": 37,
+        "average_package_lpa": 4.7,
+        "top_companies_visited": [
+          "TCS",
+          "Wipro",
+          "Infosys",
+          "Cognizant",
+          "Tech Mahindra",
+          "Amazon",
+          "Capgemini",
+          "Accenture"
+        ],
+        "placement_rate": "87%",
+        "highlights_statement": "In the year 2022, the campus saw 1222 offers, with the highest package reaching 37 LPA offered by a top MNC."
+      },
+      {
+        "year": 2023,
+        "total_offers": 1223,
+        "highest_package_lpa": 38,
+        "average_package_lpa": 4.8,
+        "top_companies_visited": [
+          "TCS",
+          "Wipro",
+          "Infosys",
+          "Cognizant",
+          "Tech Mahindra",
+          "Amazon",
+          "Capgemini",
+          "Accenture"
+        ],
+        "placement_rate": "88%",
+        "highlights_statement": "In the year 2023, the campus saw 1223 offers, with the highest package reaching 38 LPA offered by a top MNC."
+      },
+      {
+        "year": 2024,
+        "total_offers": 1224,
+        "highest_package_lpa": 39,
+        "average_package_lpa": 4.9,
+        "top_companies_visited": [
+          "TCS",
+          "Wipro",
+          "Infosys",
+          "Cognizant",
+          "Tech Mahindra",
+          "Amazon",
+          "Capgemini",
+          "Accenture"
+        ],
+        "placement_rate": "89%",
+        "highlights_statement": "In the year 2024, the campus saw 1224 offers, with the highest package reaching 39 LPA offered by a top MNC."
+      }
+    ],
+    "student_records": [
+      {
+        "student_id": "20551A0001",
+        "name": "Student_Name_2021_1",
+        "branch": "Electronics and Communication",
+        "company": "Infosys",
+        "package_lpa": "4.5",
+        "role": "System Analyst",
+        "year_of_passing": 2021
+      },
+      {
+        "student_id": "20551A0002",
+        "name": "Student_Name_2021_2",
+        "branch": "Electrical and Electronics",
+        "company": "Wipro",
+        "package_lpa": "5.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2021
+      },
+      {
+        "student_id": "20551A0003",
+        "name": "Student_Name_2021_3",
+        "branch": "Mechanical Engineering",
+        "company": "Amazon",
+        "package_lpa": "11.5",
+        "role": "System Analyst",
+        "year_of_passing": 2021
+      },
+      {
+        "student_id": "20551A0004",
+        "name": "Student_Name_2021_4",
+        "branch": "Civil Engineering",
+        "company": "IBM",
+        "package_lpa": "7.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2021
+      },
+      {
+        "student_id": "20551A0005",
+        "name": "Student_Name_2021_5",
+        "branch": "Information Technology",
+        "company": "Cognizant",
+        "package_lpa": "3.5",
+        "role": "System Analyst",
+        "year_of_passing": 2021
+      },
+      {
+        "student_id": "20551A0006",
+        "name": "Student_Name_2021_6",
+        "branch": "CSE - AI & Machine Learning",
+        "company": "Accenture",
+        "package_lpa": "9.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2021
+      },
+      {
+        "student_id": "20551A0007",
+        "name": "Student_Name_2021_7",
+        "branch": "CSE - Data Science",
+        "company": "TCS",
+        "package_lpa": "5.5",
+        "role": "System Analyst",
+        "year_of_passing": 2021
+      },
+      {
+        "student_id": "20551A0008",
+        "name": "Student_Name_2021_8",
+        "branch": "Computer Science and Engineering",
+        "company": "Infosys",
+        "package_lpa": "6.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2021
+      },
+      {
+        "student_id": "20551A0009",
+        "name": "Student_Name_2021_9",
+        "branch": "Electronics and Communication",
+        "company": "Wipro",
+        "package_lpa": "12.5",
+        "role": "System Analyst",
+        "year_of_passing": 2021
+      },
+      {
+        "student_id": "20551A0010",
+        "name": "Student_Name_2021_10",
+        "branch": "Electrical and Electronics",
+        "company": "Amazon",
+        "package_lpa": "3.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2021
+      },
+      {
+        "student_id": "20551A0011",
+        "name": "Student_Name_2021_11",
+        "branch": "Mechanical Engineering",
+        "company": "IBM",
+        "package_lpa": "4.5",
+        "role": "System Analyst",
+        "year_of_passing": 2021
+      },
+      {
+        "student_id": "20551A0012",
+        "name": "Student_Name_2021_12",
+        "branch": "Civil Engineering",
+        "company": "Cognizant",
+        "package_lpa": "10.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2021
+      },
+      {
+        "student_id": "20551A0013",
+        "name": "Student_Name_2021_13",
+        "branch": "Information Technology",
+        "company": "Accenture",
+        "package_lpa": "6.5",
+        "role": "System Analyst",
+        "year_of_passing": 2021
+      },
+      {
+        "student_id": "20551A0014",
+        "name": "Student_Name_2021_14",
+        "branch": "CSE - AI & Machine Learning",
+        "company": "TCS",
+        "package_lpa": "7.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2021
+      },
+      {
+        "student_id": "20551A0015",
+        "name": "Student_Name_2021_15",
+        "branch": "CSE - Data Science",
+        "company": "Infosys",
+        "package_lpa": "8.5",
+        "role": "System Analyst",
+        "year_of_passing": 2021
+      },
+      {
+        "student_id": "20551A0016",
+        "name": "Student_Name_2021_16",
+        "branch": "Computer Science and Engineering",
+        "company": "Wipro",
+        "package_lpa": "4.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2021
+      },
+      {
+        "student_id": "20551A0017",
+        "name": "Student_Name_2021_17",
+        "branch": "Electronics and Communication",
+        "company": "Amazon",
+        "package_lpa": "5.5",
+        "role": "System Analyst",
+        "year_of_passing": 2021
+      },
+      {
+        "student_id": "20551A0018",
+        "name": "Student_Name_2021_18",
+        "branch": "Electrical and Electronics",
+        "company": "IBM",
+        "package_lpa": "11.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2021
+      },
+      {
+        "student_id": "20551A0019",
+        "name": "Student_Name_2021_19",
+        "branch": "Mechanical Engineering",
+        "company": "Cognizant",
+        "package_lpa": "7.5",
+        "role": "System Analyst",
+        "year_of_passing": 2021
+      },
+      {
+        "student_id": "20551A0020",
+        "name": "Student_Name_2021_20",
+        "branch": "Civil Engineering",
+        "company": "Accenture",
+        "package_lpa": "3.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2021
+      },
+      {
+        "student_id": "20551A0021",
+        "name": "Student_Name_2021_21",
+        "branch": "Information Technology",
+        "company": "TCS",
+        "package_lpa": "9.5",
+        "role": "System Analyst",
+        "year_of_passing": 2021
+      },
+      {
+        "student_id": "20551A0022",
+        "name": "Student_Name_2021_22",
+        "branch": "CSE - AI & Machine Learning",
+        "company": "Infosys",
+        "package_lpa": "5.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2021
+      },
+      {
+        "student_id": "20551A0023",
+        "name": "Student_Name_2021_23",
+        "branch": "CSE - Data Science",
+        "company": "Wipro",
+        "package_lpa": "6.5",
+        "role": "System Analyst",
+        "year_of_passing": 2021
+      },
+      {
+        "student_id": "20551A0024",
+        "name": "Student_Name_2021_24",
+        "branch": "Computer Science and Engineering",
+        "company": "Amazon",
+        "package_lpa": "12.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2021
+      },
+      {
+        "student_id": "20551A0025",
+        "name": "Student_Name_2021_25",
+        "branch": "Electronics and Communication",
+        "company": "IBM",
+        "package_lpa": "3.5",
+        "role": "System Analyst",
+        "year_of_passing": 2021
+      },
+      {
+        "student_id": "20551A0026",
+        "name": "Student_Name_2021_26",
+        "branch": "Electrical and Electronics",
+        "company": "Cognizant",
+        "package_lpa": "4.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2021
+      },
+      {
+        "student_id": "20551A0027",
+        "name": "Student_Name_2021_27",
+        "branch": "Mechanical Engineering",
+        "company": "Accenture",
+        "package_lpa": "10.5",
+        "role": "System Analyst",
+        "year_of_passing": 2021
+      },
+      {
+        "student_id": "20551A0028",
+        "name": "Student_Name_2021_28",
+        "branch": "Civil Engineering",
+        "company": "TCS",
+        "package_lpa": "6.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2021
+      },
+      {
+        "student_id": "20551A0029",
+        "name": "Student_Name_2021_29",
+        "branch": "Information Technology",
+        "company": "Infosys",
+        "package_lpa": "7.5",
+        "role": "System Analyst",
+        "year_of_passing": 2021
+      },
+      {
+        "student_id": "20551A0030",
+        "name": "Student_Name_2021_30",
+        "branch": "CSE - AI & Machine Learning",
+        "company": "Wipro",
+        "package_lpa": "8.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2021
+      },
+      {
+        "student_id": "20551A0001",
+        "name": "Student_Name_2022_1",
+        "branch": "Electronics and Communication",
+        "company": "Infosys",
+        "package_lpa": "4.5",
+        "role": "System Analyst",
+        "year_of_passing": 2022
+      },
+      {
+        "student_id": "20551A0002",
+        "name": "Student_Name_2022_2",
+        "branch": "Electrical and Electronics",
+        "company": "Wipro",
+        "package_lpa": "5.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2022
+      },
+      {
+        "student_id": "20551A0003",
+        "name": "Student_Name_2022_3",
+        "branch": "Mechanical Engineering",
+        "company": "Amazon",
+        "package_lpa": "11.5",
+        "role": "System Analyst",
+        "year_of_passing": 2022
+      },
+      {
+        "student_id": "20551A0004",
+        "name": "Student_Name_2022_4",
+        "branch": "Civil Engineering",
+        "company": "IBM",
+        "package_lpa": "7.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2022
+      },
+      {
+        "student_id": "20551A0005",
+        "name": "Student_Name_2022_5",
+        "branch": "Information Technology",
+        "company": "Cognizant",
+        "package_lpa": "3.5",
+        "role": "System Analyst",
+        "year_of_passing": 2022
+      },
+      {
+        "student_id": "20551A0006",
+        "name": "Student_Name_2022_6",
+        "branch": "CSE - AI & Machine Learning",
+        "company": "Accenture",
+        "package_lpa": "9.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2022
+      },
+      {
+        "student_id": "20551A0007",
+        "name": "Student_Name_2022_7",
+        "branch": "CSE - Data Science",
+        "company": "TCS",
+        "package_lpa": "5.5",
+        "role": "System Analyst",
+        "year_of_passing": 2022
+      },
+      {
+        "student_id": "20551A0008",
+        "name": "Student_Name_2022_8",
+        "branch": "Computer Science and Engineering",
+        "company": "Infosys",
+        "package_lpa": "6.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2022
+      },
+      {
+        "student_id": "20551A0009",
+        "name": "Student_Name_2022_9",
+        "branch": "Electronics and Communication",
+        "company": "Wipro",
+        "package_lpa": "12.5",
+        "role": "System Analyst",
+        "year_of_passing": 2022
+      },
+      {
+        "student_id": "20551A0010",
+        "name": "Student_Name_2022_10",
+        "branch": "Electrical and Electronics",
+        "company": "Amazon",
+        "package_lpa": "3.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2022
+      },
+      {
+        "student_id": "20551A0011",
+        "name": "Student_Name_2022_11",
+        "branch": "Mechanical Engineering",
+        "company": "IBM",
+        "package_lpa": "4.5",
+        "role": "System Analyst",
+        "year_of_passing": 2022
+      },
+      {
+        "student_id": "20551A0012",
+        "name": "Student_Name_2022_12",
+        "branch": "Civil Engineering",
+        "company": "Cognizant",
+        "package_lpa": "10.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2022
+      },
+      {
+        "student_id": "20551A0013",
+        "name": "Student_Name_2022_13",
+        "branch": "Information Technology",
+        "company": "Accenture",
+        "package_lpa": "6.5",
+        "role": "System Analyst",
+        "year_of_passing": 2022
+      },
+      {
+        "student_id": "20551A0014",
+        "name": "Student_Name_2022_14",
+        "branch": "CSE - AI & Machine Learning",
+        "company": "TCS",
+        "package_lpa": "7.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2022
+      },
+      {
+        "student_id": "20551A0015",
+        "name": "Student_Name_2022_15",
+        "branch": "CSE - Data Science",
+        "company": "Infosys",
+        "package_lpa": "8.5",
+        "role": "System Analyst",
+        "year_of_passing": 2022
+      },
+      {
+        "student_id": "20551A0016",
+        "name": "Student_Name_2022_16",
+        "branch": "Computer Science and Engineering",
+        "company": "Wipro",
+        "package_lpa": "4.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2022
+      },
+      {
+        "student_id": "20551A0017",
+        "name": "Student_Name_2022_17",
+        "branch": "Electronics and Communication",
+        "company": "Amazon",
+        "package_lpa": "5.5",
+        "role": "System Analyst",
+        "year_of_passing": 2022
+      },
+      {
+        "student_id": "20551A0018",
+        "name": "Student_Name_2022_18",
+        "branch": "Electrical and Electronics",
+        "company": "IBM",
+        "package_lpa": "11.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2022
+      },
+      {
+        "student_id": "20551A0019",
+        "name": "Student_Name_2022_19",
+        "branch": "Mechanical Engineering",
+        "company": "Cognizant",
+        "package_lpa": "7.5",
+        "role": "System Analyst",
+        "year_of_passing": 2022
+      },
+      {
+        "student_id": "20551A0020",
+        "name": "Student_Name_2022_20",
+        "branch": "Civil Engineering",
+        "company": "Accenture",
+        "package_lpa": "3.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2022
+      },
+      {
+        "student_id": "20551A0021",
+        "name": "Student_Name_2022_21",
+        "branch": "Information Technology",
+        "company": "TCS",
+        "package_lpa": "9.5",
+        "role": "System Analyst",
+        "year_of_passing": 2022
+      },
+      {
+        "student_id": "20551A0022",
+        "name": "Student_Name_2022_22",
+        "branch": "CSE - AI & Machine Learning",
+        "company": "Infosys",
+        "package_lpa": "5.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2022
+      },
+      {
+        "student_id": "20551A0023",
+        "name": "Student_Name_2022_23",
+        "branch": "CSE - Data Science",
+        "company": "Wipro",
+        "package_lpa": "6.5",
+        "role": "System Analyst",
+        "year_of_passing": 2022
+      },
+      {
+        "student_id": "20551A0024",
+        "name": "Student_Name_2022_24",
+        "branch": "Computer Science and Engineering",
+        "company": "Amazon",
+        "package_lpa": "12.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2022
+      },
+      {
+        "student_id": "20551A0025",
+        "name": "Student_Name_2022_25",
+        "branch": "Electronics and Communication",
+        "company": "IBM",
+        "package_lpa": "3.5",
+        "role": "System Analyst",
+        "year_of_passing": 2022
+      },
+      {
+        "student_id": "20551A0026",
+        "name": "Student_Name_2022_26",
+        "branch": "Electrical and Electronics",
+        "company": "Cognizant",
+        "package_lpa": "4.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2022
+      },
+      {
+        "student_id": "20551A0027",
+        "name": "Student_Name_2022_27",
+        "branch": "Mechanical Engineering",
+        "company": "Accenture",
+        "package_lpa": "10.5",
+        "role": "System Analyst",
+        "year_of_passing": 2022
+      },
+      {
+        "student_id": "20551A0028",
+        "name": "Student_Name_2022_28",
+        "branch": "Civil Engineering",
+        "company": "TCS",
+        "package_lpa": "6.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2022
+      },
+      {
+        "student_id": "20551A0029",
+        "name": "Student_Name_2022_29",
+        "branch": "Information Technology",
+        "company": "Infosys",
+        "package_lpa": "7.5",
+        "role": "System Analyst",
+        "year_of_passing": 2022
+      },
+      {
+        "student_id": "20551A0030",
+        "name": "Student_Name_2022_30",
+        "branch": "CSE - AI & Machine Learning",
+        "company": "Wipro",
+        "package_lpa": "8.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2022
+      },
+      {
+        "student_id": "20551A0001",
+        "name": "Student_Name_2023_1",
+        "branch": "Electronics and Communication",
+        "company": "Infosys",
+        "package_lpa": "4.5",
+        "role": "System Analyst",
+        "year_of_passing": 2023
+      },
+      {
+        "student_id": "20551A0002",
+        "name": "Student_Name_2023_2",
+        "branch": "Electrical and Electronics",
+        "company": "Wipro",
+        "package_lpa": "5.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2023
+      },
+      {
+        "student_id": "20551A0003",
+        "name": "Student_Name_2023_3",
+        "branch": "Mechanical Engineering",
+        "company": "Amazon",
+        "package_lpa": "11.5",
+        "role": "System Analyst",
+        "year_of_passing": 2023
+      },
+      {
+        "student_id": "20551A0004",
+        "name": "Student_Name_2023_4",
+        "branch": "Civil Engineering",
+        "company": "IBM",
+        "package_lpa": "7.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2023
+      },
+      {
+        "student_id": "20551A0005",
+        "name": "Student_Name_2023_5",
+        "branch": "Information Technology",
+        "company": "Cognizant",
+        "package_lpa": "3.5",
+        "role": "System Analyst",
+        "year_of_passing": 2023
+      },
+      {
+        "student_id": "20551A0006",
+        "name": "Student_Name_2023_6",
+        "branch": "CSE - AI & Machine Learning",
+        "company": "Accenture",
+        "package_lpa": "9.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2023
+      },
+      {
+        "student_id": "20551A0007",
+        "name": "Student_Name_2023_7",
+        "branch": "CSE - Data Science",
+        "company": "TCS",
+        "package_lpa": "5.5",
+        "role": "System Analyst",
+        "year_of_passing": 2023
+      },
+      {
+        "student_id": "20551A0008",
+        "name": "Student_Name_2023_8",
+        "branch": "Computer Science and Engineering",
+        "company": "Infosys",
+        "package_lpa": "6.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2023
+      },
+      {
+        "student_id": "20551A0009",
+        "name": "Student_Name_2023_9",
+        "branch": "Electronics and Communication",
+        "company": "Wipro",
+        "package_lpa": "12.5",
+        "role": "System Analyst",
+        "year_of_passing": 2023
+      },
+      {
+        "student_id": "20551A0010",
+        "name": "Student_Name_2023_10",
+        "branch": "Electrical and Electronics",
+        "company": "Amazon",
+        "package_lpa": "3.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2023
+      },
+      {
+        "student_id": "20551A0011",
+        "name": "Student_Name_2023_11",
+        "branch": "Mechanical Engineering",
+        "company": "IBM",
+        "package_lpa": "4.5",
+        "role": "System Analyst",
+        "year_of_passing": 2023
+      },
+      {
+        "student_id": "20551A0012",
+        "name": "Student_Name_2023_12",
+        "branch": "Civil Engineering",
+        "company": "Cognizant",
+        "package_lpa": "10.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2023
+      },
+      {
+        "student_id": "20551A0013",
+        "name": "Student_Name_2023_13",
+        "branch": "Information Technology",
+        "company": "Accenture",
+        "package_lpa": "6.5",
+        "role": "System Analyst",
+        "year_of_passing": 2023
+      },
+      {
+        "student_id": "20551A0014",
+        "name": "Student_Name_2023_14",
+        "branch": "CSE - AI & Machine Learning",
+        "company": "TCS",
+        "package_lpa": "7.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2023
+      },
+      {
+        "student_id": "20551A0015",
+        "name": "Student_Name_2023_15",
+        "branch": "CSE - Data Science",
+        "company": "Infosys",
+        "package_lpa": "8.5",
+        "role": "System Analyst",
+        "year_of_passing": 2023
+      },
+      {
+        "student_id": "20551A0016",
+        "name": "Student_Name_2023_16",
+        "branch": "Computer Science and Engineering",
+        "company": "Wipro",
+        "package_lpa": "4.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2023
+      },
+      {
+        "student_id": "20551A0017",
+        "name": "Student_Name_2023_17",
+        "branch": "Electronics and Communication",
+        "company": "Amazon",
+        "package_lpa": "5.5",
+        "role": "System Analyst",
+        "year_of_passing": 2023
+      },
+      {
+        "student_id": "20551A0018",
+        "name": "Student_Name_2023_18",
+        "branch": "Electrical and Electronics",
+        "company": "IBM",
+        "package_lpa": "11.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2023
+      },
+      {
+        "student_id": "20551A0019",
+        "name": "Student_Name_2023_19",
+        "branch": "Mechanical Engineering",
+        "company": "Cognizant",
+        "package_lpa": "7.5",
+        "role": "System Analyst",
+        "year_of_passing": 2023
+      },
+      {
+        "student_id": "20551A0020",
+        "name": "Student_Name_2023_20",
+        "branch": "Civil Engineering",
+        "company": "Accenture",
+        "package_lpa": "3.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2023
+      },
+      {
+        "student_id": "20551A0021",
+        "name": "Student_Name_2023_21",
+        "branch": "Information Technology",
+        "company": "TCS",
+        "package_lpa": "9.5",
+        "role": "System Analyst",
+        "year_of_passing": 2023
+      },
+      {
+        "student_id": "20551A0022",
+        "name": "Student_Name_2023_22",
+        "branch": "CSE - AI & Machine Learning",
+        "company": "Infosys",
+        "package_lpa": "5.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2023
+      },
+      {
+        "student_id": "20551A0023",
+        "name": "Student_Name_2023_23",
+        "branch": "CSE - Data Science",
+        "company": "Wipro",
+        "package_lpa": "6.5",
+        "role": "System Analyst",
+        "year_of_passing": 2023
+      },
+      {
+        "student_id": "20551A0024",
+        "name": "Student_Name_2023_24",
+        "branch": "Computer Science and Engineering",
+        "company": "Amazon",
+        "package_lpa": "12.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2023
+      },
+      {
+        "student_id": "20551A0025",
+        "name": "Student_Name_2023_25",
+        "branch": "Electronics and Communication",
+        "company": "IBM",
+        "package_lpa": "3.5",
+        "role": "System Analyst",
+        "year_of_passing": 2023
+      },
+      {
+        "student_id": "20551A0026",
+        "name": "Student_Name_2023_26",
+        "branch": "Electrical and Electronics",
+        "company": "Cognizant",
+        "package_lpa": "4.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2023
+      },
+      {
+        "student_id": "20551A0027",
+        "name": "Student_Name_2023_27",
+        "branch": "Mechanical Engineering",
+        "company": "Accenture",
+        "package_lpa": "10.5",
+        "role": "System Analyst",
+        "year_of_passing": 2023
+      },
+      {
+        "student_id": "20551A0028",
+        "name": "Student_Name_2023_28",
+        "branch": "Civil Engineering",
+        "company": "TCS",
+        "package_lpa": "6.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2023
+      },
+      {
+        "student_id": "20551A0029",
+        "name": "Student_Name_2023_29",
+        "branch": "Information Technology",
+        "company": "Infosys",
+        "package_lpa": "7.5",
+        "role": "System Analyst",
+        "year_of_passing": 2023
+      },
+      {
+        "student_id": "20551A0030",
+        "name": "Student_Name_2023_30",
+        "branch": "CSE - AI & Machine Learning",
+        "company": "Wipro",
+        "package_lpa": "8.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2023
+      },
+      {
+        "student_id": "20551A0001",
+        "name": "Student_Name_2024_1",
+        "branch": "Electronics and Communication",
+        "company": "Infosys",
+        "package_lpa": "4.5",
+        "role": "System Analyst",
+        "year_of_passing": 2024
+      },
+      {
+        "student_id": "20551A0002",
+        "name": "Student_Name_2024_2",
+        "branch": "Electrical and Electronics",
+        "company": "Wipro",
+        "package_lpa": "5.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2024
+      },
+      {
+        "student_id": "20551A0003",
+        "name": "Student_Name_2024_3",
+        "branch": "Mechanical Engineering",
+        "company": "Amazon",
+        "package_lpa": "11.5",
+        "role": "System Analyst",
+        "year_of_passing": 2024
+      },
+      {
+        "student_id": "20551A0004",
+        "name": "Student_Name_2024_4",
+        "branch": "Civil Engineering",
+        "company": "IBM",
+        "package_lpa": "7.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2024
+      },
+      {
+        "student_id": "20551A0005",
+        "name": "Student_Name_2024_5",
+        "branch": "Information Technology",
+        "company": "Cognizant",
+        "package_lpa": "3.5",
+        "role": "System Analyst",
+        "year_of_passing": 2024
+      },
+      {
+        "student_id": "20551A0006",
+        "name": "Student_Name_2024_6",
+        "branch": "CSE - AI & Machine Learning",
+        "company": "Accenture",
+        "package_lpa": "9.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2024
+      },
+      {
+        "student_id": "20551A0007",
+        "name": "Student_Name_2024_7",
+        "branch": "CSE - Data Science",
+        "company": "TCS",
+        "package_lpa": "5.5",
+        "role": "System Analyst",
+        "year_of_passing": 2024
+      },
+      {
+        "student_id": "20551A0008",
+        "name": "Student_Name_2024_8",
+        "branch": "Computer Science and Engineering",
+        "company": "Infosys",
+        "package_lpa": "6.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2024
+      },
+      {
+        "student_id": "20551A0009",
+        "name": "Student_Name_2024_9",
+        "branch": "Electronics and Communication",
+        "company": "Wipro",
+        "package_lpa": "12.5",
+        "role": "System Analyst",
+        "year_of_passing": 2024
+      },
+      {
+        "student_id": "20551A0010",
+        "name": "Student_Name_2024_10",
+        "branch": "Electrical and Electronics",
+        "company": "Amazon",
+        "package_lpa": "3.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2024
+      },
+      {
+        "student_id": "20551A0011",
+        "name": "Student_Name_2024_11",
+        "branch": "Mechanical Engineering",
+        "company": "IBM",
+        "package_lpa": "4.5",
+        "role": "System Analyst",
+        "year_of_passing": 2024
+      },
+      {
+        "student_id": "20551A0012",
+        "name": "Student_Name_2024_12",
+        "branch": "Civil Engineering",
+        "company": "Cognizant",
+        "package_lpa": "10.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2024
+      },
+      {
+        "student_id": "20551A0013",
+        "name": "Student_Name_2024_13",
+        "branch": "Information Technology",
+        "company": "Accenture",
+        "package_lpa": "6.5",
+        "role": "System Analyst",
+        "year_of_passing": 2024
+      },
+      {
+        "student_id": "20551A0014",
+        "name": "Student_Name_2024_14",
+        "branch": "CSE - AI & Machine Learning",
+        "company": "TCS",
+        "package_lpa": "7.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2024
+      },
+      {
+        "student_id": "20551A0015",
+        "name": "Student_Name_2024_15",
+        "branch": "CSE - Data Science",
+        "company": "Infosys",
+        "package_lpa": "8.5",
+        "role": "System Analyst",
+        "year_of_passing": 2024
+      },
+      {
+        "student_id": "20551A0016",
+        "name": "Student_Name_2024_16",
+        "branch": "Computer Science and Engineering",
+        "company": "Wipro",
+        "package_lpa": "4.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2024
+      },
+      {
+        "student_id": "20551A0017",
+        "name": "Student_Name_2024_17",
+        "branch": "Electronics and Communication",
+        "company": "Amazon",
+        "package_lpa": "5.5",
+        "role": "System Analyst",
+        "year_of_passing": 2024
+      },
+      {
+        "student_id": "20551A0018",
+        "name": "Student_Name_2024_18",
+        "branch": "Electrical and Electronics",
+        "company": "IBM",
+        "package_lpa": "11.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2024
+      },
+      {
+        "student_id": "20551A0019",
+        "name": "Student_Name_2024_19",
+        "branch": "Mechanical Engineering",
+        "company": "Cognizant",
+        "package_lpa": "7.5",
+        "role": "System Analyst",
+        "year_of_passing": 2024
+      },
+      {
+        "student_id": "20551A0020",
+        "name": "Student_Name_2024_20",
+        "branch": "Civil Engineering",
+        "company": "Accenture",
+        "package_lpa": "3.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2024
+      },
+      {
+        "student_id": "20551A0021",
+        "name": "Student_Name_2024_21",
+        "branch": "Information Technology",
+        "company": "TCS",
+        "package_lpa": "9.5",
+        "role": "System Analyst",
+        "year_of_passing": 2024
+      },
+      {
+        "student_id": "20551A0022",
+        "name": "Student_Name_2024_22",
+        "branch": "CSE - AI & Machine Learning",
+        "company": "Infosys",
+        "package_lpa": "5.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2024
+      },
+      {
+        "student_id": "20551A0023",
+        "name": "Student_Name_2024_23",
+        "branch": "CSE - Data Science",
+        "company": "Wipro",
+        "package_lpa": "6.5",
+        "role": "System Analyst",
+        "year_of_passing": 2024
+      },
+      {
+        "student_id": "20551A0024",
+        "name": "Student_Name_2024_24",
+        "branch": "Computer Science and Engineering",
+        "company": "Amazon",
+        "package_lpa": "12.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2024
+      },
+      {
+        "student_id": "20551A0025",
+        "name": "Student_Name_2024_25",
+        "branch": "Electronics and Communication",
+        "company": "IBM",
+        "package_lpa": "3.5",
+        "role": "System Analyst",
+        "year_of_passing": 2024
+      },
+      {
+        "student_id": "20551A0026",
+        "name": "Student_Name_2024_26",
+        "branch": "Electrical and Electronics",
+        "company": "Cognizant",
+        "package_lpa": "4.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2024
+      },
+      {
+        "student_id": "20551A0027",
+        "name": "Student_Name_2024_27",
+        "branch": "Mechanical Engineering",
+        "company": "Accenture",
+        "package_lpa": "10.5",
+        "role": "System Analyst",
+        "year_of_passing": 2024
+      },
+      {
+        "student_id": "20551A0028",
+        "name": "Student_Name_2024_28",
+        "branch": "Civil Engineering",
+        "company": "TCS",
+        "package_lpa": "6.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2024
+      },
+      {
+        "student_id": "20551A0029",
+        "name": "Student_Name_2024_29",
+        "branch": "Information Technology",
+        "company": "Infosys",
+        "package_lpa": "7.5",
+        "role": "System Analyst",
+        "year_of_passing": 2024
+      },
+      {
+        "student_id": "20551A0030",
+        "name": "Student_Name_2024_30",
+        "branch": "CSE - AI & Machine Learning",
+        "company": "Wipro",
+        "package_lpa": "8.5",
+        "role": "Software Engineer",
+        "year_of_passing": 2024
+      }
+    ]
+  },
+  "infrastructure_and_facilities": {
+    "library": {
+      "name": "Central Library",
+      "timings": "8:00 AM to 8:00 PM",
+      "total_volumes": 65000,
+      "digital_library": "Access to IEEE, Springer, DELNET, NPTEL videos.",
+      "seating_capacity": 500
+    },
+    "canteens": [
+      {
+        "name": "Main Canteen",
+        "capacity": 800,
+        "type": "Multi-Cuisine, Veg and Non-Veg",
+        "special": "Lunch meals, Tiffins, Fast Food"
+      },
+      {
+        "name": "GIET Food Court",
+        "capacity": 300,
+        "type": "Cafeteria",
+        "special": "Beverages, Bakery Items, Snacks"
+      },
+      {
+        "name": "Nescafe Connect",
+        "capacity": 50,
+        "type": "Coffee Shop",
+        "special": "Coffee, Maggi, Sandwiches"
+      }
+    ],
+    "hostels": {
+      "boys_hostels": [
+        "Narendra Bhavan",
+        "Vivekananda Bhavan"
+      ],
+      "girls_hostels": [
+        "Mother Teresa Bhavan",
+        "Sarojini Bhavan"
+      ],
+      "facilities": [
+        "24/7 Wi-Fi connectivity",
+        "Mineral water (RO Plant)",
+        "Hot water facility",
+        "Medical center access",
+        "Gymnasium within premises"
+      ]
+    },
+    "transportation": {
+      "fleet_size": 60,
+      "routes": [
+        "Rajahmundry City",
+        "Kakinada",
+        "Amalapuram",
+        "Ravulapalem",
+        "Mandapeta",
+        "Dowleswaram"
+      ],
+      "details": "A massive fleet of 60 buses ensures safe transit for day scholars and staff covering a radius of 50 KMs."
+    },
+    "medical_facility": "In-house dispensary with a visiting doctor, 24/7 ambulance service."
+  },
+  "sports_and_athletics": {
+    "overview": "Physical education is an integral part. The campus has sprawling grounds for outdoor sports and well-equipped indoor facilities.",
+    "outdoor_facilities": [
+      "Cricket Ground (Standard size)",
+      "Football ground",
+      "Volleyball courts (3)",
+      "Basketball court (Synthetic)",
+      "Throwball courts"
+    ],
+    "indoor_facilities": [
+      "Badminton courts",
+      "Table Tennis",
+      "Chess and Carrom boards",
+      "Well-equipped Gymnasium for boys and girls"
+    ],
+    "past_achievements": [
+      "JNTUK Zonal Cricket Champions 2023",
+      "Gold Medalist in State level Powerlifting",
+      "Winners of Inter-college Volleyball tournament"
+    ]
+  },
+  "events_and_fests": {
+    "cultural_fest": {
+      "name": "Fest-De-GIET",
+      "month": "February / March",
+      "description": "The annual national level cultural fest featuring celebrity concerts, dance competitions, fashion shows, and musical nights. It is the biggest fest in the region."
+    },
+    "technical_fest": {
+      "name": "Tech-Srijan",
+      "month": "September",
+      "description": "A national level technical symposium. Involves paper presentations, robot battles, coding hackathons, and project expos."
+    },
+    "other_events": [
+      "Annual Sports Meet",
+      "Alumni Meet (Smriti)",
+      "Fresher's Day (Aarohan)",
+      "Farewell Party (Sayonara)",
+      "Traditional Day",
+      "Engineers Day Celebrations",
+      "Women's Day Celebrations"
+    ]
+  },
+  "student_clubs_and_societies": [
+    {
+      "name": "NSS Unit",
+      "focus": "Social service, blood donation camps, village adoption."
+    },
+    {
+      "name": "Coding Club",
+      "focus": "Competitive programming, hackathons."
+    },
+    {
+      "name": "Robotics Club",
+      "focus": "Building hardware prototypes, drone making."
+    },
+    {
+      "name": "Literary and Debate Club",
+      "focus": "Public speaking, group discussions."
+    },
+    {
+      "name": "Cultural Troupe",
+      "focus": "Dance, music, drama representing college."
+    }
+  ],
+  "student_demographics": {
+    "total_students": 4500,
+    "gender_ratio": "65% Male, 35% Female",
+    "student_origin": "Primarily from Andhra Pradesh, Telangana, with a significant number of students from northeastern states and other parts of India."
+  },
+  "achievements": [
+    "Awarded 'Best Engineering College in A.P.' by various educational surveys.",
+    "Recognized by MSME as a Business Incubator.",
+    "MOU with leading industries for student internships.",
+    "Hundreds of students participating in National Smart India Hackathon (SIH) every year.",
+    "Received grants from AICTE, DST for research projects."
+  ],
+  "faculty_summary": {
+    "total_faculty": 120,
+    "phd_holders": 40,
+    "faculty_list": [
+      {
+        "name": "Dr. Faculty_CSE_1",
+        "department": "Computer Science and Engineering",
+        "designation": "Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 11
+      },
+      {
+        "name": "Dr. Faculty_CSE_2",
+        "department": "Computer Science and Engineering",
+        "designation": "Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 21
+      },
+      {
+        "name": "Dr. Faculty_CSE_3",
+        "department": "Computer Science and Engineering",
+        "designation": "Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 9
+      },
+      {
+        "name": "Dr. Faculty_CSE_4",
+        "department": "Computer Science and Engineering",
+        "designation": "Associate Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 8
+      },
+      {
+        "name": "Dr. Faculty_CSE_5",
+        "department": "Computer Science and Engineering",
+        "designation": "Associate Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 18
+      },
+      {
+        "name": "Dr. Faculty_CSE_6",
+        "department": "Computer Science and Engineering",
+        "designation": "Associate Professor",
+        "qualification": "M.Tech",
+        "experience_years": 6
+      },
+      {
+        "name": "Dr. Faculty_CSE_7",
+        "department": "Computer Science and Engineering",
+        "designation": "Associate Professor",
+        "qualification": "M.Tech",
+        "experience_years": 11
+      },
+      {
+        "name": "Dr. Faculty_CSE_8",
+        "department": "Computer Science and Engineering",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 9
+      },
+      {
+        "name": "Dr. Faculty_CSE_9",
+        "department": "Computer Science and Engineering",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 8
+      },
+      {
+        "name": "Dr. Faculty_CSE_10",
+        "department": "Computer Science and Engineering",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 15
+      },
+      {
+        "name": "Dr. Faculty_CSE_11",
+        "department": "Computer Science and Engineering",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 22
+      },
+      {
+        "name": "Dr. Faculty_CSE_12",
+        "department": "Computer Science and Engineering",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 11
+      },
+      {
+        "name": "Dr. Faculty_CSE_13",
+        "department": "Computer Science and Engineering",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 16
+      },
+      {
+        "name": "Dr. Faculty_CSE_14",
+        "department": "Computer Science and Engineering",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 9
+      },
+      {
+        "name": "Dr. Faculty_CSE_15",
+        "department": "Computer Science and Engineering",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 11
+      },
+      {
+        "name": "Dr. Faculty_ECE_1",
+        "department": "Electronics and Communication",
+        "designation": "Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 16
+      },
+      {
+        "name": "Dr. Faculty_ECE_2",
+        "department": "Electronics and Communication",
+        "designation": "Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 19
+      },
+      {
+        "name": "Dr. Faculty_ECE_3",
+        "department": "Electronics and Communication",
+        "designation": "Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 15
+      },
+      {
+        "name": "Dr. Faculty_ECE_4",
+        "department": "Electronics and Communication",
+        "designation": "Associate Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 8
+      },
+      {
+        "name": "Dr. Faculty_ECE_5",
+        "department": "Electronics and Communication",
+        "designation": "Associate Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 11
+      },
+      {
+        "name": "Dr. Faculty_ECE_6",
+        "department": "Electronics and Communication",
+        "designation": "Associate Professor",
+        "qualification": "M.Tech",
+        "experience_years": 11
+      },
+      {
+        "name": "Dr. Faculty_ECE_7",
+        "department": "Electronics and Communication",
+        "designation": "Associate Professor",
+        "qualification": "M.Tech",
+        "experience_years": 10
+      },
+      {
+        "name": "Dr. Faculty_ECE_8",
+        "department": "Electronics and Communication",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 20
+      },
+      {
+        "name": "Dr. Faculty_ECE_9",
+        "department": "Electronics and Communication",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 7
+      },
+      {
+        "name": "Dr. Faculty_ECE_10",
+        "department": "Electronics and Communication",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 5
+      },
+      {
+        "name": "Dr. Faculty_ECE_11",
+        "department": "Electronics and Communication",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 17
+      },
+      {
+        "name": "Dr. Faculty_ECE_12",
+        "department": "Electronics and Communication",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 10
+      },
+      {
+        "name": "Dr. Faculty_ECE_13",
+        "department": "Electronics and Communication",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 5
+      },
+      {
+        "name": "Dr. Faculty_ECE_14",
+        "department": "Electronics and Communication",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 16
+      },
+      {
+        "name": "Dr. Faculty_ECE_15",
+        "department": "Electronics and Communication",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 6
+      },
+      {
+        "name": "Dr. Faculty_EEE_1",
+        "department": "Electrical and Electronics",
+        "designation": "Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 8
+      },
+      {
+        "name": "Dr. Faculty_EEE_2",
+        "department": "Electrical and Electronics",
+        "designation": "Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 12
+      },
+      {
+        "name": "Dr. Faculty_EEE_3",
+        "department": "Electrical and Electronics",
+        "designation": "Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 12
+      },
+      {
+        "name": "Dr. Faculty_EEE_4",
+        "department": "Electrical and Electronics",
+        "designation": "Associate Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 24
+      },
+      {
+        "name": "Dr. Faculty_EEE_5",
+        "department": "Electrical and Electronics",
+        "designation": "Associate Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 16
+      },
+      {
+        "name": "Dr. Faculty_EEE_6",
+        "department": "Electrical and Electronics",
+        "designation": "Associate Professor",
+        "qualification": "M.Tech",
+        "experience_years": 11
+      },
+      {
+        "name": "Dr. Faculty_EEE_7",
+        "department": "Electrical and Electronics",
+        "designation": "Associate Professor",
+        "qualification": "M.Tech",
+        "experience_years": 11
+      },
+      {
+        "name": "Dr. Faculty_EEE_8",
+        "department": "Electrical and Electronics",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 5
+      },
+      {
+        "name": "Dr. Faculty_EEE_9",
+        "department": "Electrical and Electronics",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 16
+      },
+      {
+        "name": "Dr. Faculty_EEE_10",
+        "department": "Electrical and Electronics",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 19
+      },
+      {
+        "name": "Dr. Faculty_EEE_11",
+        "department": "Electrical and Electronics",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 24
+      },
+      {
+        "name": "Dr. Faculty_EEE_12",
+        "department": "Electrical and Electronics",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 9
+      },
+      {
+        "name": "Dr. Faculty_EEE_13",
+        "department": "Electrical and Electronics",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 11
+      },
+      {
+        "name": "Dr. Faculty_EEE_14",
+        "department": "Electrical and Electronics",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 22
+      },
+      {
+        "name": "Dr. Faculty_EEE_15",
+        "department": "Electrical and Electronics",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 21
+      },
+      {
+        "name": "Dr. Faculty_MECH_1",
+        "department": "Mechanical Engineering",
+        "designation": "Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 18
+      },
+      {
+        "name": "Dr. Faculty_MECH_2",
+        "department": "Mechanical Engineering",
+        "designation": "Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 7
+      },
+      {
+        "name": "Dr. Faculty_MECH_3",
+        "department": "Mechanical Engineering",
+        "designation": "Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 16
+      },
+      {
+        "name": "Dr. Faculty_MECH_4",
+        "department": "Mechanical Engineering",
+        "designation": "Associate Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 20
+      },
+      {
+        "name": "Dr. Faculty_MECH_5",
+        "department": "Mechanical Engineering",
+        "designation": "Associate Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 8
+      },
+      {
+        "name": "Dr. Faculty_MECH_6",
+        "department": "Mechanical Engineering",
+        "designation": "Associate Professor",
+        "qualification": "M.Tech",
+        "experience_years": 5
+      },
+      {
+        "name": "Dr. Faculty_MECH_7",
+        "department": "Mechanical Engineering",
+        "designation": "Associate Professor",
+        "qualification": "M.Tech",
+        "experience_years": 24
+      },
+      {
+        "name": "Dr. Faculty_MECH_8",
+        "department": "Mechanical Engineering",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 13
+      },
+      {
+        "name": "Dr. Faculty_MECH_9",
+        "department": "Mechanical Engineering",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 17
+      },
+      {
+        "name": "Dr. Faculty_MECH_10",
+        "department": "Mechanical Engineering",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 11
+      },
+      {
+        "name": "Dr. Faculty_MECH_11",
+        "department": "Mechanical Engineering",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 14
+      },
+      {
+        "name": "Dr. Faculty_MECH_12",
+        "department": "Mechanical Engineering",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 5
+      },
+      {
+        "name": "Dr. Faculty_MECH_13",
+        "department": "Mechanical Engineering",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 15
+      },
+      {
+        "name": "Dr. Faculty_MECH_14",
+        "department": "Mechanical Engineering",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 11
+      },
+      {
+        "name": "Dr. Faculty_MECH_15",
+        "department": "Mechanical Engineering",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 11
+      },
+      {
+        "name": "Dr. Faculty_CIVIL_1",
+        "department": "Civil Engineering",
+        "designation": "Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 23
+      },
+      {
+        "name": "Dr. Faculty_CIVIL_2",
+        "department": "Civil Engineering",
+        "designation": "Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 8
+      },
+      {
+        "name": "Dr. Faculty_CIVIL_3",
+        "department": "Civil Engineering",
+        "designation": "Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 21
+      },
+      {
+        "name": "Dr. Faculty_CIVIL_4",
+        "department": "Civil Engineering",
+        "designation": "Associate Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 19
+      },
+      {
+        "name": "Dr. Faculty_CIVIL_5",
+        "department": "Civil Engineering",
+        "designation": "Associate Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 15
+      },
+      {
+        "name": "Dr. Faculty_CIVIL_6",
+        "department": "Civil Engineering",
+        "designation": "Associate Professor",
+        "qualification": "M.Tech",
+        "experience_years": 22
+      },
+      {
+        "name": "Dr. Faculty_CIVIL_7",
+        "department": "Civil Engineering",
+        "designation": "Associate Professor",
+        "qualification": "M.Tech",
+        "experience_years": 5
+      },
+      {
+        "name": "Dr. Faculty_CIVIL_8",
+        "department": "Civil Engineering",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 5
+      },
+      {
+        "name": "Dr. Faculty_CIVIL_9",
+        "department": "Civil Engineering",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 23
+      },
+      {
+        "name": "Dr. Faculty_CIVIL_10",
+        "department": "Civil Engineering",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 8
+      },
+      {
+        "name": "Dr. Faculty_CIVIL_11",
+        "department": "Civil Engineering",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 11
+      },
+      {
+        "name": "Dr. Faculty_CIVIL_12",
+        "department": "Civil Engineering",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 6
+      },
+      {
+        "name": "Dr. Faculty_CIVIL_13",
+        "department": "Civil Engineering",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 24
+      },
+      {
+        "name": "Dr. Faculty_CIVIL_14",
+        "department": "Civil Engineering",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 17
+      },
+      {
+        "name": "Dr. Faculty_CIVIL_15",
+        "department": "Civil Engineering",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 13
+      },
+      {
+        "name": "Dr. Faculty_IT_1",
+        "department": "Information Technology",
+        "designation": "Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 12
+      },
+      {
+        "name": "Dr. Faculty_IT_2",
+        "department": "Information Technology",
+        "designation": "Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 8
+      },
+      {
+        "name": "Dr. Faculty_IT_3",
+        "department": "Information Technology",
+        "designation": "Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 14
+      },
+      {
+        "name": "Dr. Faculty_IT_4",
+        "department": "Information Technology",
+        "designation": "Associate Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 19
+      },
+      {
+        "name": "Dr. Faculty_IT_5",
+        "department": "Information Technology",
+        "designation": "Associate Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 21
+      },
+      {
+        "name": "Dr. Faculty_IT_6",
+        "department": "Information Technology",
+        "designation": "Associate Professor",
+        "qualification": "M.Tech",
+        "experience_years": 24
+      },
+      {
+        "name": "Dr. Faculty_IT_7",
+        "department": "Information Technology",
+        "designation": "Associate Professor",
+        "qualification": "M.Tech",
+        "experience_years": 17
+      },
+      {
+        "name": "Dr. Faculty_IT_8",
+        "department": "Information Technology",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 20
+      },
+      {
+        "name": "Dr. Faculty_IT_9",
+        "department": "Information Technology",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 9
+      },
+      {
+        "name": "Dr. Faculty_IT_10",
+        "department": "Information Technology",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 16
+      },
+      {
+        "name": "Dr. Faculty_IT_11",
+        "department": "Information Technology",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 21
+      },
+      {
+        "name": "Dr. Faculty_IT_12",
+        "department": "Information Technology",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 16
+      },
+      {
+        "name": "Dr. Faculty_IT_13",
+        "department": "Information Technology",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 17
+      },
+      {
+        "name": "Dr. Faculty_IT_14",
+        "department": "Information Technology",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 16
+      },
+      {
+        "name": "Dr. Faculty_IT_15",
+        "department": "Information Technology",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 12
+      },
+      {
+        "name": "Dr. Faculty_CSM_1",
+        "department": "CSE - AI & Machine Learning",
+        "designation": "Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 10
+      },
+      {
+        "name": "Dr. Faculty_CSM_2",
+        "department": "CSE - AI & Machine Learning",
+        "designation": "Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 5
+      },
+      {
+        "name": "Dr. Faculty_CSM_3",
+        "department": "CSE - AI & Machine Learning",
+        "designation": "Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 9
+      },
+      {
+        "name": "Dr. Faculty_CSM_4",
+        "department": "CSE - AI & Machine Learning",
+        "designation": "Associate Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 7
+      },
+      {
+        "name": "Dr. Faculty_CSM_5",
+        "department": "CSE - AI & Machine Learning",
+        "designation": "Associate Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 5
+      },
+      {
+        "name": "Dr. Faculty_CSM_6",
+        "department": "CSE - AI & Machine Learning",
+        "designation": "Associate Professor",
+        "qualification": "M.Tech",
+        "experience_years": 5
+      },
+      {
+        "name": "Dr. Faculty_CSM_7",
+        "department": "CSE - AI & Machine Learning",
+        "designation": "Associate Professor",
+        "qualification": "M.Tech",
+        "experience_years": 18
+      },
+      {
+        "name": "Dr. Faculty_CSM_8",
+        "department": "CSE - AI & Machine Learning",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 6
+      },
+      {
+        "name": "Dr. Faculty_CSM_9",
+        "department": "CSE - AI & Machine Learning",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 23
+      },
+      {
+        "name": "Dr. Faculty_CSM_10",
+        "department": "CSE - AI & Machine Learning",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 5
+      },
+      {
+        "name": "Dr. Faculty_CSM_11",
+        "department": "CSE - AI & Machine Learning",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 15
+      },
+      {
+        "name": "Dr. Faculty_CSM_12",
+        "department": "CSE - AI & Machine Learning",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 17
+      },
+      {
+        "name": "Dr. Faculty_CSM_13",
+        "department": "CSE - AI & Machine Learning",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 13
+      },
+      {
+        "name": "Dr. Faculty_CSM_14",
+        "department": "CSE - AI & Machine Learning",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 23
+      },
+      {
+        "name": "Dr. Faculty_CSM_15",
+        "department": "CSE - AI & Machine Learning",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 24
+      },
+      {
+        "name": "Dr. Faculty_CSD_1",
+        "department": "CSE - Data Science",
+        "designation": "Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 11
+      },
+      {
+        "name": "Dr. Faculty_CSD_2",
+        "department": "CSE - Data Science",
+        "designation": "Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 24
+      },
+      {
+        "name": "Dr. Faculty_CSD_3",
+        "department": "CSE - Data Science",
+        "designation": "Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 19
+      },
+      {
+        "name": "Dr. Faculty_CSD_4",
+        "department": "CSE - Data Science",
+        "designation": "Associate Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 10
+      },
+      {
+        "name": "Dr. Faculty_CSD_5",
+        "department": "CSE - Data Science",
+        "designation": "Associate Professor",
+        "qualification": "Ph.D.",
+        "experience_years": 20
+      },
+      {
+        "name": "Dr. Faculty_CSD_6",
+        "department": "CSE - Data Science",
+        "designation": "Associate Professor",
+        "qualification": "M.Tech",
+        "experience_years": 7
+      },
+      {
+        "name": "Dr. Faculty_CSD_7",
+        "department": "CSE - Data Science",
+        "designation": "Associate Professor",
+        "qualification": "M.Tech",
+        "experience_years": 8
+      },
+      {
+        "name": "Dr. Faculty_CSD_8",
+        "department": "CSE - Data Science",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 16
+      },
+      {
+        "name": "Dr. Faculty_CSD_9",
+        "department": "CSE - Data Science",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 7
+      },
+      {
+        "name": "Dr. Faculty_CSD_10",
+        "department": "CSE - Data Science",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 14
+      },
+      {
+        "name": "Dr. Faculty_CSD_11",
+        "department": "CSE - Data Science",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 19
+      },
+      {
+        "name": "Dr. Faculty_CSD_12",
+        "department": "CSE - Data Science",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 11
+      },
+      {
+        "name": "Dr. Faculty_CSD_13",
+        "department": "CSE - Data Science",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 16
+      },
+      {
+        "name": "Dr. Faculty_CSD_14",
+        "department": "CSE - Data Science",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 23
+      },
+      {
+        "name": "Dr. Faculty_CSD_15",
+        "department": "CSE - Data Science",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech",
+        "experience_years": 11
+      }
+    ]
+  }
+}
